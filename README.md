@@ -130,6 +130,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Dance AI Generator](https://danceaigenerator.com/)**: Turns one photo of a person or pet into a 6-second 9:16 dance video.
 - **[Descript](https://www.descript.com/)**: Edit video by editing the transcript, with AI audio cleanup.
 - **[FacelessShorts](https://facelessshorts.io/)**: Scripted faceless video series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
+- **[GetYouTubeTranscript](https://getyoutubetranscript.com)**: Gets the transcript of any YouTube video, with AI summaries, translation and chat.
 - **[Google Veo](https://deepmind.google/technologies/veo/)**: Google's cinematic video generation with native audio.
 - **[HeyGen](https://www.heygen.com/)**: AI avatar video generation with voice cloning and multi-language support.
 - **[Higgsfield](https://higgsfield.ai/)**: Creative workspace for dynamic AI images and videos.
