@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 149 AI apps across 11 categories**
+**Total: 150 AI apps across 11 categories**
 
 ## Contents
 
@@ -37,6 +37,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Le Chat](https://chat.mistral.ai/)**: Mistral's chatbot for general assistance and coding.
 - **[Meta AI](https://www.meta.ai/)**: Meta's assistant built into Facebook, Instagram, and WhatsApp.
 - **[Poe](https://poe.com/)**: Quora's aggregator for accessing and comparing multiple AI models in one place.
+- **[Quock](https://github.com/matteocelani/quock)**: Open-source iOS client for Ollama Cloud, with sign-in via an ollama.com account and on-device chat history.
 - **[Qwen Chat](https://chat.qwen.ai/)**: Alibaba's multilingual assistant powered by the Qwen model family.
 - **[Replika](https://replika.com/)**: AI companion designed for emotional support and conversation practice.
 - **[Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571)**: iOS wellness companion that listens, tracks mood and guides breathing in English or Vietnamese, with a separate safety check that surfaces verified local helplines.
