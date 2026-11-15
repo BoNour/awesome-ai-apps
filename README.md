@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 155 AI apps across 11 categories**
+**Total: 156 AI apps across 11 categories**
 
 ## Contents
 
@@ -71,6 +71,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 
 - **[Brave Search](https://search.brave.com/)**: Independent AI search with a privacy-first approach.
 - **[Consensus](https://consensus.app/)**: Search engine that surfaces evidence from 200M+ research papers.
+- **[DisconfirmAI](https://disconfirmai.com/en)**: Investment research and reading tool that looks for evidence against a thesis before you commit to it.
 - **[IdeaHunter](https://ideahunter.today/)**: AI research for startup ideas, market evidence, and MVP scope.
 - **[Kagi](https://kagi.com/)**: Privacy-focused search engine with AI-enhanced results.
 - **[Komo](https://komo.ai/)**: Private, ad-free AI search engine.
