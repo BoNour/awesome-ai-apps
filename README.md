@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 153 AI apps across 11 categories**
+**Total: 154 AI apps across 11 categories**
 
 ## Contents
 
@@ -188,6 +188,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 
 - **[Activepieces](https://www.activepieces.com/)**: Open-source AI workflow builder across 1000+ apps.
 - **[Agent QA](https://github.com/vostride/agent-qa)**: AI QA agent for natural-language web and mobile tests with persistent test memory.
+- **[AI Tools Radar](https://aitoolsradar.com/)**: An AI tools directory and editorial platform for discovering, comparing, and tracking AI products.
 - **[Browser Use](https://browser-use.com/)**: Open-source AI agents that control real browsers.
 - **[Dify](https://dify.ai/)**: Open-source LLM app platform with visual workflows and RAG.
 - **[Flowise](https://flowiseai.com/)**: Open-source drag-and-drop builder for LLM agents.
