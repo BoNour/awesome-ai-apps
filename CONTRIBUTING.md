@@ -1,10 +1,10 @@
 # Contributing to awesome-ai-apps
 
-Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **152 hand-picked AI apps across 11 categories** — only apps that genuinely stand out.
+Thanks for helping keep **awesome-ai-apps** curated, lean, and genuinely useful. The list is deliberately small: **155 hand-picked AI apps across 11 categories** — only apps that genuinely stand out.
 
 ## Before you start
 
-**Please star this repository** ⭐ before submitting a pull request. We ask all contributors to star the project as a sign of support and to help it reach more people in the community. This is required for your PR to be merged.
+**Please star this repository** * before submitting a pull request. We ask all contributors to star the project as a sign of support and to help it reach more people in the community. This is required for your PR to be merged.
 
 ## What we accept
 

@@ -9,7 +9,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/hasitpbhatt/awesome-ai-apps?style=for-the-badge&logo=git&logoColor=white&color=0EA5E9">
 </p>
 
-**Total: 152 AI apps across 11 categories**
+**Total: 155 AI apps across 11 categories**
 
 ## Contents
 
@@ -65,6 +65,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Roo Code](https://roocode.com/)**: Open-source VS Code agent with role-based modes (Code, Architect, Debug).
 - **[v0](https://v0.dev/)**: Generative UI tool that turns prompts into production-ready React/Next.js code.
 - **[Windsurf](https://windsurf.com/)**: Agentic IDE with Cascade for planning and executing multi-step changes.
+- **[YYLO](https://github.com/yylo-dev/yylo)**: Open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
 
 ## AI Search & Research
 
@@ -169,6 +170,7 @@ A curated list of the best AI applications and tools, organized by category. Upd
 - **[Beautiful.ai](https://www.beautiful.ai/)**: AI presentation design that auto-formats slides as you build.
 - **[Fathom](https://fathom.video/)**: Free AI notetaker that joins Zoom/Meet/Teams and summarizes.
 - **[Fireflies.ai](https://fireflies.ai/)**: AI notetaker across video-conferencing platforms.
+- **[Frank AI Researcher](https://www.hifrank.ai/)**: Voice-first tool that runs AI-moderated voice interviews with a team's own customers, in 50+ languages.
 - **[Gamma](https://gamma.app/)**: Turns prompts into polished presentations, documents, and webpages.
 - **[Heptabase](https://heptabase.com/)**: Visual knowledge management with AI-assisted linking.
 - **[JobEmerge](https://www.jobemerge.work)**: AI career copilot for job-fit analysis, 19-language resume translation, Markdown resume editing, and application tracking.
